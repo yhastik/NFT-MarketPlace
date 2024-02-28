@@ -1,0 +1,10 @@
+
+.Link {
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+.Link:hover {
+    transform: scale(1.3);
+    color: #A259FF;
+}

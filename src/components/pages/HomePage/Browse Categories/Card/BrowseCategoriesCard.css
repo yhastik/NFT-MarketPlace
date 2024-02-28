@@ -1,0 +1,45 @@
+.BrowseCategoriesCard{
+    width: 240px;
+    height: 315px;
+    background-color: #3B3B3B;
+    border-radius: 22px;
+    color: white;
+}
+
+.BrowseCategoriesCard-Title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 240px;
+    height: 240px;
+}
+.backGr{
+    position: absolute;
+    width: 240px;
+    height: 240px;
+}
+.BG{
+    width: 240px;
+    height: 240px;
+    backdrop-filter: blur(5px);
+    background: rgba(255, 255, 255, 0.1);
+    position: absolute;
+    border-radius: 20px 20px 0 0;
+}
+.IconGr{
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+.BrowseCategoriesCard-Footer{
+
+}
+.BrowseCategoriesCard-Footer-txt{
+    margin: 0;
+    width: 180px;
+    height: 30px;
+    padding-left: 30px;
+    padding-top: 20px;
+    font-size: 22px;
+    font-weight: 600;
+}

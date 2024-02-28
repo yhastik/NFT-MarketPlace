@@ -1,0 +1,13 @@
+.browseCategories{
+    height: 883px;
+    color: white;
+}
+.browseCategories-title{
+    font-size: 38px;
+    font-weight: 600;
+}
+.browseCategories-Cards {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
